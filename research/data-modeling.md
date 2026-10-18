@@ -2,7 +2,7 @@
 
 [← Profile](../README.md)
 
-Two coauthored education studies developed a shared set of methods: define measurable outcomes, assemble structured data, select suitable models, compare subgroups, and examine how conclusions change under alternative specifications.
+Two coauthored studies of how educational resources and research output are distributed, using statistical modeling, subgroup analysis, and robustness checks.
 
 ## Higher education resource distribution
 
@@ -30,9 +30,5 @@ The poster studies publication inequality using CNKI records covering 6,189 doct
 - **Comparison:** institutional background, funding, and collaboration structure.
 
 Journal impact factors are a proxy used in this study, not a complete measure of an individual's research quality.
-
-## Connection to AI evaluation
-
-These studies provide a foundation for metric design, subgroup analysis, and sensitivity testing. In AI evaluation, those skills can help frame what to measure, where aggregate scores hide differences, and which conclusions depend on evaluation choices. The studies themselves evaluate empirical research questions, rather than AI models.
 
 This page is a methodological summary. It does not redistribute the publication PDFs or underlying research data.
