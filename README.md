@@ -14,7 +14,7 @@ My background connects language and knowledge modeling with computing, data scie
 
 ### 🧠 Knowledge & Research
 
-**[Knowledge Modeling](./research/knowledge-modeling.md)** — Bilingual ontologies, RDF relations, and knowledge graphs: foundations for knowledge-enhanced RAG.
+**[Knowledge Modeling](./research/knowledge-modeling.md)** — Exploring bilingual ontologies, RDF relations, and knowledge graphs.
 
 **[Data Modeling & Evaluation Methods](./research/data-modeling.md)** — Statistical modeling, subgroup analysis, and robustness testing. A CSSCI publication and a poster selected for Tsinghua University's Higher Education Forum.
 
