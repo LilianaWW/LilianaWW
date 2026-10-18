@@ -14,7 +14,7 @@
 
 ### 🧠 知识与研究
 
-**[知识建模](./research/knowledge-modeling.md)** — 双语本体、RDF 关系表示与知识图谱，连接 RAG 所需的知识组织基础。
+**[知识建模](./research/knowledge-modeling.md)** — 围绕双语本体、RDF 关系表示与知识图谱的自主探索。
 
 **[数据建模与评测方法](./research/data-modeling.md)** — 统计建模、分组分析与稳健性检验。相关成果包括 CSSCI 论文及入选清华大学高等教育论坛的研究海报。
 
