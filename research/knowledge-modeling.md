@@ -1,4 +1,4 @@
-# Knowledge Modeling
+# Bilingual Ontologies
 
 [← Profile](../README.md)
 
@@ -22,3 +22,7 @@ The focus was on making concepts and their relationships explicit: aligning bili
 A bilingual ontology prototype with defined concept classes, properties, and semantic relations, supported by a graph view for exploring the terminology.
 
 **Tools:** Python · RDF · Protégé · OntoGraf
+
+## Related reading
+
+[Ontology — Projects & Reading](../ontology.md): tools, papers, and references on ontology engineering and multilingual knowledge representation.
