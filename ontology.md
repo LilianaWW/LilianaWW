@@ -1,10 +1,14 @@
-# Ontology — Projects & Reading
+# Awesome Ontology
 
-[← Profile](./README.md) · [Bilingual Ontologies](./research/knowledge-modeling.md)
+[← Profile](./README.md)
 
 A curated collection on **ontology engineering, multilingual knowledge representation, and knowledge graphs**.
 
 Resources are collected for exploration; inclusion does not imply a completed implementation or reproduction. The notes below describe why each resource is worth investigating. Initial collection: **23 October 2026**.
+
+## My practice
+
+**[Bilingual ontology modeling](./research/knowledge-modeling.md)** — A personal exploration of Chinese–Japanese terminology, Python-based collection, RDF relations, and an ontology prototype using Protégé and OntoGraf.
 
 ## Start here
 
