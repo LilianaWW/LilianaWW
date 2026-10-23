@@ -1,6 +1,6 @@
 # Bilingual Ontologies
 
-[← Profile](../README.md)
+[← Awesome Ontology](../ontology.md) · [Profile](../README.md)
 
 **Organizing bilingual terminology into a structured knowledge base.**
 
@@ -25,4 +25,4 @@ A bilingual ontology prototype with defined concept classes, properties, and sem
 
 ## Related reading
 
-[Ontology — Projects & Reading](../ontology.md): tools, papers, and references on ontology engineering and multilingual knowledge representation.
+[Awesome Ontology](../ontology.md): tools, papers, and references on ontology engineering and multilingual knowledge representation.
